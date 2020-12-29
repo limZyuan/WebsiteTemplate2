@@ -2,7 +2,7 @@
 
 The code that goes with [this video](https://www.youtube.com/watch?v=X1dz0xRbSJc&)
 
-# Key takeaways
+## Key takeaways
 
 - scss syntax
 - Component level declaration of css variables
